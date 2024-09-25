@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/muhaammedsuhaib/leetcode/tree/master/0009-palindrome-number) |
 | [2383-add-two-integers](https://github.com/muhaammedsuhaib/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/muhaammedsuhaib/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Simulation
