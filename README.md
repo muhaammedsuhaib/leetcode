@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/muhaammedsuhaib/leetcode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/muhaammedsuhaib/leetcode/tree/master/0043-multiply-strings) |
 | [2383-add-two-integers](https://github.com/muhaammedsuhaib/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/muhaammedsuhaib/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/muhaammedsuhaib/leetcode/tree/master/0043-multiply-strings) |
 | [2058-concatenation-of-array](https://github.com/muhaammedsuhaib/leetcode/tree/master/2058-concatenation-of-array) |
 ## Number Theory
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/muhaammedsuhaib/leetcode/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/muhaammedsuhaib/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muhaammedsuhaib/leetcode/tree/master/0344-reverse-string) |
 ## Two Pointers
