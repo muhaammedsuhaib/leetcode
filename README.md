@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/muhaammedsuhaib/leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/muhaammedsuhaib/leetcode/tree/master/0043-multiply-strings) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muhaammedsuhaib/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/muhaammedsuhaib/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/muhaammedsuhaib/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Simulation
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/muhaammedsuhaib/leetcode/tree/master/2128-reverse-prefix-of-word) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muhaammedsuhaib/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
