@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhaammedsuhaib/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/muhaammedsuhaib/leetcode/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/muhaammedsuhaib/leetcode/tree/master/0217-contains-duplicate) |
+| [1944-truncate-sentence](https://github.com/muhaammedsuhaib/leetcode/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/muhaammedsuhaib/leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/muhaammedsuhaib/leetcode/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/muhaammedsuhaib/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muhaammedsuhaib/leetcode/tree/master/0344-reverse-string) |
+| [1944-truncate-sentence](https://github.com/muhaammedsuhaib/leetcode/tree/master/1944-truncate-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/muhaammedsuhaib/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
