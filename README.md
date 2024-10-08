@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhaammedsuhaib/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/muhaammedsuhaib/leetcode/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/muhaammedsuhaib/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/muhaammedsuhaib/leetcode/tree/master/0268-missing-number) |
 | [1944-truncate-sentence](https://github.com/muhaammedsuhaib/leetcode/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/muhaammedsuhaib/leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -18,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/muhaammedsuhaib/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/muhaammedsuhaib/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/muhaammedsuhaib/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/muhaammedsuhaib/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/muhaammedsuhaib/leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/muhaammedsuhaib/leetcode/tree/master/0043-multiply-strings) |
+| [0268-missing-number](https://github.com/muhaammedsuhaib/leetcode/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muhaammedsuhaib/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/muhaammedsuhaib/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/muhaammedsuhaib/leetcode/tree/master/2491-smallest-even-multiple) |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/muhaammedsuhaib/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/muhaammedsuhaib/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/muhaammedsuhaib/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -60,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/muhaammedsuhaib/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/muhaammedsuhaib/leetcode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -68,5 +73,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/muhaammedsuhaib/leetcode/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muhaammedsuhaib/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
