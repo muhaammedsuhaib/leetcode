@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/muhaammedsuhaib/leetcode/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/muhaammedsuhaib/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muhaammedsuhaib/leetcode/tree/master/0344-reverse-string) |
+| [1894-merge-strings-alternately](https://github.com/muhaammedsuhaib/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/muhaammedsuhaib/leetcode/tree/master/1944-truncate-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/muhaammedsuhaib/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/muhaammedsuhaib/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhaammedsuhaib/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/muhaammedsuhaib/leetcode/tree/master/0344-reverse-string) |
+| [1894-merge-strings-alternately](https://github.com/muhaammedsuhaib/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/muhaammedsuhaib/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Binary Search
 |  |
