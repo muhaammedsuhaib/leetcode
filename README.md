@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/muhaammedsuhaib/leetcode/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/muhaammedsuhaib/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/muhaammedsuhaib/leetcode/tree/master/0268-missing-number) |
+| [1256-rank-transform-of-an-array](https://github.com/muhaammedsuhaib/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1944-truncate-sentence](https://github.com/muhaammedsuhaib/leetcode/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/muhaammedsuhaib/leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/muhaammedsuhaib/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/muhaammedsuhaib/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muhaammedsuhaib/leetcode/tree/master/0268-missing-number) |
+| [1256-rank-transform-of-an-array](https://github.com/muhaammedsuhaib/leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/muhaammedsuhaib/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/muhaammedsuhaib/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muhaammedsuhaib/leetcode/tree/master/0268-missing-number) |
+| [1256-rank-transform-of-an-array](https://github.com/muhaammedsuhaib/leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
