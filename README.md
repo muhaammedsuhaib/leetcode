@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/muhaammedsuhaib/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhaammedsuhaib/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/muhaammedsuhaib/leetcode/tree/master/0035-search-insert-position) |
+| [0169-majority-element](https://github.com/muhaammedsuhaib/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhaammedsuhaib/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/muhaammedsuhaib/leetcode/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/muhaammedsuhaib/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muhaammedsuhaib/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/muhaammedsuhaib/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhaammedsuhaib/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/muhaammedsuhaib/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muhaammedsuhaib/leetcode/tree/master/0268-missing-number) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/muhaammedsuhaib/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhaammedsuhaib/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/muhaammedsuhaib/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muhaammedsuhaib/leetcode/tree/master/0268-missing-number) |
@@ -89,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/muhaammedsuhaib/leetcode/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muhaammedsuhaib/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/muhaammedsuhaib/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/muhaammedsuhaib/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
