@@ -5,24 +5,24 @@
  */
 var mostCommonWord = function(paragraph, banned) {
     const words = paragraph.toLowerCase().match(/\w+/g) || [];
-    const bannedSet = new Set(banned);
-    const wordCount = {};
+    const banword = new Set(banned);
+    const wc = {};
 
     words.forEach(word => {
-        if (!bannedSet.has(word)) {
-            wordCount[word] = (wordCount[word] || 0) + 1;
+        if (!banword.has(word)) {
+            wc[word] = (wc[word] || 0) + 1;
         }
     });
-    let mostFrequent = '';
-    let maxCount = 0;
+    let mf = '';
+    let maxc = 0;
 
-    for (const word in wordCount) {
-        if (wordCount[word] > maxCount) {
-            mostFrequent = word;
-            maxCount = wordCount[word];
+    for (const word in wc) {
+        if (wc[word] > maxc) {
+            mf = word;
+            maxc = wc[word];
         }
     }
 
-    return mostFrequent;
+    return mf;
 
 };
