@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/muhaammedsuhaib/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/muhaammedsuhaib/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muhaammedsuhaib/leetcode/tree/master/0344-reverse-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/muhaammedsuhaib/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0812-rotate-string](https://github.com/muhaammedsuhaib/leetcode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/muhaammedsuhaib/leetcode/tree/master/0837-most-common-word) |
 | [1894-merge-strings-alternately](https://github.com/muhaammedsuhaib/leetcode/tree/master/1894-merge-strings-alternately) |
