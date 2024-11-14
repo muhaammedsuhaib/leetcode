@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/muhaammedsuhaib/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0837-most-common-word](https://github.com/muhaammedsuhaib/leetcode/tree/master/0837-most-common-word) |
 | [1256-rank-transform-of-an-array](https://github.com/muhaammedsuhaib/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/muhaammedsuhaib/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2825-minimize-string-length](https://github.com/muhaammedsuhaib/leetcode/tree/master/2825-minimize-string-length) |
 ## Math
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/muhaammedsuhaib/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0812-rotate-string](https://github.com/muhaammedsuhaib/leetcode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/muhaammedsuhaib/leetcode/tree/master/0837-most-common-word) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/muhaammedsuhaib/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1894-merge-strings-alternately](https://github.com/muhaammedsuhaib/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/muhaammedsuhaib/leetcode/tree/master/1944-truncate-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/muhaammedsuhaib/leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/muhaammedsuhaib/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/muhaammedsuhaib/leetcode/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muhaammedsuhaib/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/muhaammedsuhaib/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-rotate-string](https://github.com/muhaammedsuhaib/leetcode/tree/master/0812-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/muhaammedsuhaib/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/muhaammedsuhaib/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 <!---LeetCode Topics End-->
