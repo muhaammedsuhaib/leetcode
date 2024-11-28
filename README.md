@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/muhaammedsuhaib/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/muhaammedsuhaib/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhaammedsuhaib/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/muhaammedsuhaib/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/muhaammedsuhaib/leetcode/tree/master/0058-length-of-last-word) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/muhaammedsuhaib/leetcode/tree/master/0020-valid-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/muhaammedsuhaib/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/muhaammedsuhaib/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
