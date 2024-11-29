@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/muhaammedsuhaib/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muhaammedsuhaib/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muhaammedsuhaib/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0782-jewels-and-stones](https://github.com/muhaammedsuhaib/leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/muhaammedsuhaib/leetcode/tree/master/0837-most-common-word) |
 | [1256-rank-transform-of-an-array](https://github.com/muhaammedsuhaib/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/muhaammedsuhaib/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/muhaammedsuhaib/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muhaammedsuhaib/leetcode/tree/master/0344-reverse-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/muhaammedsuhaib/leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0782-jewels-and-stones](https://github.com/muhaammedsuhaib/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/muhaammedsuhaib/leetcode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/muhaammedsuhaib/leetcode/tree/master/0837-most-common-word) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/muhaammedsuhaib/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
