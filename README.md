@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/muhaammedsuhaib/leetcode/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/muhaammedsuhaib/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/muhaammedsuhaib/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3226-minimum-number-game](https://github.com/muhaammedsuhaib/leetcode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/muhaammedsuhaib/leetcode/tree/master/0043-multiply-strings) |
 | [2058-concatenation-of-array](https://github.com/muhaammedsuhaib/leetcode/tree/master/2058-concatenation-of-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/muhaammedsuhaib/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3226-minimum-number-game](https://github.com/muhaammedsuhaib/leetcode/tree/master/3226-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/muhaammedsuhaib/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1256-rank-transform-of-an-array](https://github.com/muhaammedsuhaib/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/muhaammedsuhaib/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3226-minimum-number-game](https://github.com/muhaammedsuhaib/leetcode/tree/master/3226-minimum-number-game) |
 ## String
 |  |
 | ------- |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/muhaammedsuhaib/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/muhaammedsuhaib/leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
